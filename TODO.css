@@ -1,0 +1,45 @@
+  body{
+            text-align: center;
+            align-items: center;
+
+        }
+        .setters{
+            height: 40px;
+           
+            margin: 20px;
+        }
+        #Button-input{
+            cursor: pointer;
+            width: 75px;
+            background-color: green;
+            border: none;
+            border-radius: 12px;
+        }
+    #show{
+       
+    }
+    #Added-Lists{
+        margin: 20px;
+        /* display: grid;
+        grid-template-columns: 200px 150px 100px ; */
+        
+    }
+   
+    .List-Elements{
+        display: inline-block;
+        margin-left: 20px;
+        height: 30px;
+        border: none;
+        border-radius: 10px;
+        width: auto;
+        padding: 10px;
+       box-sizing: content-box;
+        align-content: center;
+        background-color: green;
+        
+    }
+    #Delete-Button {
+        background-color: orangered ;
+        height: 30px;
+    }
+    
